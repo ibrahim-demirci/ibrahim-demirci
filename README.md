@@ -1,11 +1,14 @@
+
+
 <h1 align="center">Hi, I'm İbrahim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1> 
-<h3 align="center">Junior debug("for now") Mobile App Developer.</h3>
+<h3 align="center">Junior <span style="color:#AE95D0;">debug("for now")</span>  Mobile App Developer.</h3>
 
 
 ### 🛠 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase&logoColor=FFC300)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
@@ -21,19 +24,17 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### 📊 GitHub Analytics
-
+<br>
 <p align="center">
 <a href="https://github.com/ibrahim-demirci">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahim-demirci&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="ibrahim-demirci"/>
+  <br><br>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-demirci&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="ibrahim-demirci"/>
 </a>
 </p>
 
-### 🤝🏻 Social
+### 🤝🏻 Contact
 
 <p align="left">
 
