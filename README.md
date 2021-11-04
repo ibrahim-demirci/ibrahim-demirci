@@ -26,10 +26,11 @@
 
 ### 📊 GitHub Analytics
 <br>
-
+<p align = "center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-demirci&show_icons=true&theme=tokyonight)
   <br><br>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-demirci&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="ibrahim-demirci"/>
+  </p>
 </a>
   
   
