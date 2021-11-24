@@ -3,11 +3,12 @@
 <h1 align="center">Hi, I'm İbrahim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1> 
 <h3 align="center">Jr. <span style="color:#AE95D0;">print("for now")</span>  Mobile App Developer.</h3>
 
-I am a developer who has developed projects in areas such as unmanned aerial vehicles (UAV), mobile game development, image processing, and finally devotes himself to the mobile application world.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+I am a developer who has developed projects in areas such as unmanned aerial vehicles (UAV), mobile game development, image processing, and finally devotes himself to the mobile application world.
 
-### 🛠 Tech Stack
+
+### 🛠  Tech Stack
 ![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
