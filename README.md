@@ -34,7 +34,7 @@ A junior print(" for now ") developer interested in mobile application developme
 ### 📊 GitHub Analytics
 
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-demirci&show_icons=true&theme=gotham" alt="ibrahim-demirci" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-demirci&count_private=true&show_icons=true" alt="ibrahim-demirci" />
 
   
 
