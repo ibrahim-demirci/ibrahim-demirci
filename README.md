@@ -6,6 +6,9 @@
 
 I'm interested in mobile application development.
 
+#### Hobbies 
+
+Driving (Cars, Motors), Fitness, Musics, Learning new Techs.  
 
 ### 🛠  Tech Stack
 ![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white)
