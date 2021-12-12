@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-A junior print(" for now ") developer interested in mobile application development.
+I'm interested in mobile application development.
 
 
 ### 🛠  Tech Stack
