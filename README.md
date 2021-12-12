@@ -6,7 +6,7 @@
 
 I'm interested in mobile application development.
 
-#### Hobbies 
+#### ✨ Hobbies 
 
 Driving (Cars, Motors), Fitness, Musics, Learning new Techs.  
 
