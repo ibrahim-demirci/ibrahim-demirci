@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-I'm interested in mobile application development.
+Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour blablabla... .
 
 #### ✨ Hobbies 
 
-Driving (Cars, Motors), Fitness, Musics, Learning new Techs.  
+Driving (Cars, Motors), Fitness, Musics.  
 
 ### 🛠  Tech Stack
 ![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white)
