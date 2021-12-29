@@ -29,8 +29,6 @@ Driving (Cars, Motors), Fitness, Musics.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=ibrahim-demirci)
-<p align="center"><b>Visitor's</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/ibrahim-demirci/count.svg" alt="visitor badge"/></p>
 
 ### 📊 GitHub Analytics
 
