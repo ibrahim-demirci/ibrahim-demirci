@@ -8,7 +8,7 @@ Interested in mobile application development. Trying to learn new tech's, things
 
 #### ✨ Hobbies 
 
-Driving (Cars, Motors), Fitness, Musics.  
+Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, Camping.  
 
 ### 🛠  Tech Stack
 ![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white)
