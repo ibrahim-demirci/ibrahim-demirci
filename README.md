@@ -7,7 +7,6 @@
 Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour blablabla... .
 
 #### ✨ Hobbies 
-<img src="fa-crown.svg" width="50" height="50">
 
 Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, Camping.  
 
@@ -54,9 +53,5 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
 <a href="https://twitter.com/_ibrahimdmrc"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=black&logo=twitter&logoColor=1DA1F2"/></a>
 
 </p>
-
-
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
 
 
