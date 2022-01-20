@@ -6,10 +6,15 @@
 
 Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour blablabla... .
 
-#### ✨ Hobbies 
+<img src="macbook-svgrepo-com.svg" width="50" height="50" align="left" />
+<font size="30">Hobbies</font>
+Tech Stack
+ <br>
+ <br>
+ 
 Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, Camping.  
 
-<img src="macbook-svgrepo-com.svg" width="30" height="30" align="left" />
+<img src="macbook-svgrepo-com.svg" width="50" height="50" align="left" />
 Tech Stack
  <br>
  <br>
