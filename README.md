@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm İbrahim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1> 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="340" />
 
 Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour blablabla... .
 
@@ -26,8 +26,8 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
 ![Java](https://img.shields.io/badge/-java-23ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=23ED8B00)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)
 ![Unity](https://img.shields.io/badge/-unity-FFFFFF?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=black&logo=css&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-html-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
 
 
