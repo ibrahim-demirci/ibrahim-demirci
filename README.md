@@ -6,16 +6,15 @@
 
 Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour blablabla... .
 
-<img src="macbook-svgrepo-com.svg" width="50" height="50" align="left" />
-<font size="4"><b>Hobbies</b></font>
-Tech Stack
+<img src="trophy-sports-and-competition-svgrepo-com.svg" width="50" height="50" align="left" />
+<font size="6"><b>Hobbies</b></font>
  <br>
  <br>
  
 Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, Camping.  
 
 <img src="macbook-svgrepo-com.svg" width="50" height="50" align="left" />
-Tech Stack
+<font size="6"><b>Tech Stack</b></font>
  <br>
  <br>
 
@@ -39,9 +38,11 @@ Tech Stack
 
 ![](https://komarev.com/ghpvc/?username=ibrahim-demirci)
 
-### 📊 GitHub Analytics
-
-
+<img src="bar-chart-svgrepo-com.svg" width="50" height="50" align="left" />
+<font size="6"><b>Github Analytics</b></font>
+ <br>
+ <br>
+ 
   <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-demirci&count_private=true&show_icons=true&theme=nord" alt="ibrahim-demirci" />
   
