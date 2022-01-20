@@ -10,6 +10,7 @@ Interested in mobile application development. Trying to learn new tech's, things
 
 Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, Camping.  
 
+![fa-crown](microchip-solid.svg)
 ### 🛠  Tech Stack
 
 ![Swift](https://img.shields.io/badge/-swift-F05138?style=for-the-badge&labelColor=black&logo=swift&logoColor=F05138)
