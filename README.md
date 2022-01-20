@@ -7,12 +7,12 @@
 Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour blablabla... .
 
 #### ✨ Hobbies 
-
 Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, Camping.  
 
-
+  <p align="left"> 
 <img src="macbook-svgrepo-com.svg" width="50" height="50">
-### 🛠  Tech Stack
+  Tech Stack
+  </p>
 
 ![Swift](https://img.shields.io/badge/-swift-F05138?style=for-the-badge&labelColor=black&logo=swift&logoColor=F05138)
 ![Firebase](https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
