@@ -7,6 +7,7 @@
 Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour blablabla... .
 
 #### ✨ Hobbies 
+<i class="fas fa-microchip"></i>
 
 Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, Camping.  
 
@@ -54,7 +55,8 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
 
 </p>
 
-<i class="fas fa-link"></i>
 
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
 
 
