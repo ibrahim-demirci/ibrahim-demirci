@@ -11,6 +11,14 @@ Interested in mobile application development. Trying to learn new tech's, things
 Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, Camping.  
 
 ### 🛠  Tech Stack
+
+![Swift](https://img.shields.io/badge/-swift-E10098?style=for-the-badge&labelColor=black&logo=swift&logoColor=E10098)
+![Firebase](https://img.shields.io/badge/-firebase-E10098?style=for-the-badge&labelColor=black&logo=firebase&logoColor=E10098)
+![Flutter](https://img.shields.io/badge/-flutter-E10098?style=for-the-badge&labelColor=black&logo=flutter&logoColor=E10098)
+![Git](https://img.shields.io/badge/-git-E10098?style=for-the-badge&labelColor=black&logo=git&logoColor=E10098)
+![Kotlin](https://img.shields.io/badge/-kotlin-E10098?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=E10098)
+
+
 ![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
