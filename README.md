@@ -12,24 +12,16 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
 
 ### 🛠  Tech Stack
 
-![Swift](https://img.shields.io/badge/-swift-E10098?style=for-the-badge&labelColor=black&logo=swift&logoColor=E10098)
-![Firebase](https://img.shields.io/badge/-firebase-E10098?style=for-the-badge&labelColor=black&logo=firebase&logoColor=E10098)
-![Flutter](https://img.shields.io/badge/-flutter-E10098?style=for-the-badge&labelColor=black&logo=flutter&logoColor=E10098)
-![Git](https://img.shields.io/badge/-git-E10098?style=for-the-badge&labelColor=black&logo=git&logoColor=E10098)
-![Kotlin](https://img.shields.io/badge/-kotlin-E10098?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=E10098)
-
-
-![Swift](https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-
+![Swift](https://img.shields.io/badge/-swift-F05138?style=for-the-badge&labelColor=black&logo=swift&logoColor=F05138)
+![Firebase](https://img.shields.io/badge/-firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
+![Flutter](https://img.shields.io/badge/-flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)
+![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
+![Kotlin](https://img.shields.io/badge/-kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)
-
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&labelColor=black&logo=xcode&logoColor=147EFB)
 ![GraphQL](https://img.shields.io/badge/-graphql-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
