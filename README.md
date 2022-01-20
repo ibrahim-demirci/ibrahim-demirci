@@ -26,18 +26,10 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
 ![Java](https://img.shields.io/badge/-java-23ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=23ED8B00)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)
 ![Unity](https://img.shields.io/badge/-unity-FFFFFF?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/-html-E34F26?style=for-the-badge&labelColor=black&logo=html&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&labelColor=black&logo=css&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-E10098?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=E10098)
+![HTML5](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&labelColor=black&logo=css&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=23ED8B00)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Unity](https://img.shields.io/badge/unity-%FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/html5-%E34F26.svg?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=ibrahim-demirci)
 
