@@ -8,8 +8,6 @@ Interested in mobile application development. Trying to learn new tech's, things
 
 <img src="trophy-sports-and-competition-svgrepo-com.svg" width="50" height="50" align="left" />
 <font size="6"><b>Hobbies</b></font>
- <br>
- <br>
  
 Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, Camping.  
 
