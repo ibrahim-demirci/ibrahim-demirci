@@ -7,7 +7,7 @@
 Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour blablabla... .
 
 <img src="macbook-svgrepo-com.svg" width="50" height="50" align="left" />
-<font size="30">Hobbies</font>
+<font size="4"><b>Hobbies</b></font>
 Tech Stack
  <br>
  <br>
