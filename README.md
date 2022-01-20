@@ -49,8 +49,8 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/ibrahim-demirci/"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:ibrahimdemirci.dev@gmail.com"><img src="https://img.shields.io/badge/-email-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://twitter.com/_ibrahimdmrc"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/></a>
+<a href="mailto:ibrahimdemirci.dev@gmail.com"><img src="https://img.shields.io/badge/-email-EA4335?style=for-the-badge&abelColor=black&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://twitter.com/_ibrahimdmrc"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&abelColor=black&logo=twitter&logoColor=1DA1F2"/></a>
 
 </p>
 
