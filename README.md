@@ -7,7 +7,7 @@
 Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour blablabla... .
 
 #### ✨ Hobbies 
-<i class="fas fa-microchip"></i>
+<img src="fa-crown.svg" width="50" height="50">
 
 Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, Camping.  
 
