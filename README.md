@@ -39,7 +39,7 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
 ![](https://komarev.com/ghpvc/?username=ibrahim-demirci)
 
 <img src="bar-chart-svgrepo-com.svg" width="50" height="50" align="left" />
-<font size="6"><b>Github Analytics</b></font>
+<font size="2"><b>Github Analytics</b></font>
  <br>
  <br>
  
