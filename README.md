@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350"/>
 
-Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour blablabla... .
+Interested in mobile application development. Trying to learn new tech's, things every morning, night, hour... .
 
 <img src="trophy-sports-and-competition-svgrepo-com.svg" width="50" height="50" align="left" />
 <font size="6"><b>Hobbies</b></font>
