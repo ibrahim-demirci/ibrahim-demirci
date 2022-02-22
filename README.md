@@ -44,7 +44,7 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
  <br>
  
   <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-demirci&show_icons=true&theme=nord" alt="ibrahim-demirci" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-demirci&count_private=true&show_icons=true&theme=nord" alt="ibrahim-demirci" />
   
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-demirci&layout=count&theme=nord"/> </p>
