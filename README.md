@@ -49,7 +49,7 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-demirci&layout=count&theme=nord"/> </p>
   
-
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ibrahim-demirci?cardType=github&theme=dark&Background=2E3540&Title=7490AC&Text=D8DEE9&Border=E4E2E2&Ring=FFFFFF)](https://git.io/awesome-stats-card)
 
 
 ### 🤝🏻 Contact
