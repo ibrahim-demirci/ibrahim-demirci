@@ -43,9 +43,15 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
  <br>
  <br>
  
-  [comment]: <> <p align="center"> 
-  [comment]: <> <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-demirci&count_private=true&show_icons=true&theme=nord" 
-  [comment]: <> alt="ibrahim-demirci" />
+ 
+ <!---
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-demirci&count_private=true&show_icons=true&theme=nord" 
+  alt="ibrahim-demirci" />
+your comment goes here
+and here
+-->
+  
   
  <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ibrahim-demirci?cardType=github&theme=dark&Background=2E3540&Title=7490AC&Text=D8DEE9&Border=E4E2E2&Ring=FFFFFF"/> </p>
