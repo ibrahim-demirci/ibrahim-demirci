@@ -24,7 +24,7 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
 ![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&labelColor=black&logo=xcode&logoColor=147EFB)
 ![Java](https://img.shields.io/badge/-java-23ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=23ED8B00)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=F2F4F9)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)
 ![Kotlin](https://img.shields.io/badge/-kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)
