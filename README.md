@@ -28,14 +28,9 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
 ![Kotlin](https://img.shields.io/badge/-kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)
-![GraphQL](https://img.shields.io/badge/-graphql-E10098?style=for-the-badge&labelColor=black&logo=graphql&logoColor=E10098)
 ![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)
 ![Unity](https://img.shields.io/badge/-unity-FFFFFF?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/-html-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)
 
 
 ![](https://komarev.com/ghpvc/?username=ibrahim-demirci)
