@@ -25,11 +25,9 @@ Driving all vehicles that are safe and have at least 3 wheels, Fitness, Musics, 
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=for-the-badge&labelColor=black&logo=xcode&logoColor=147EFB)
 ![Java](https://img.shields.io/badge/-java-23ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=23ED8B00)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)
-![Kotlin](https://img.shields.io/badge/-kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&labelColor=black&logo=android-studio&logoColor=3DDC84)
 ![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)
-![Unity](https://img.shields.io/badge/-unity-FFFFFF?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFFFFF)
 
 
 ![](https://komarev.com/ghpvc/?username=ibrahim-demirci)
