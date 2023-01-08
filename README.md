@@ -62,7 +62,6 @@ and here
 
 <a href="https://www.linkedin.com/in/ibrahim-demirci/"><img src="https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="mailto:ibrahimdemirci.dev@gmail.com"><img src="https://img.shields.io/badge/-email-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://twitter.com/_ibrahimdmrc"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=black&logo=twitter&logoColor=1DA1F2"/></a>
 
 </p>
 
